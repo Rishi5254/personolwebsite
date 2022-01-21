@@ -1,0 +1,119 @@
+body{
+    text-align : center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin-top: 30px;
+    margin-bottom: 0;
+    font-size: 5.62rem;
+    font-family: 'Sacramento', cursive;
+    color : #66BFBF;
+    line-height : 2;
+}
+.programmer-text{
+    font-size : 2rem;
+    margin: 0;
+    color : #66BFBF;
+    font weight: normal
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size : 2.5rem;
+    color : #66BFBF;
+    font weight: normal
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color :#11999E;
+}
+a{
+    color :#11999E;
+    text-decoration: none;
+}
+span{
+    text-decoration : underline;
+}
+body{
+    margin :0;
+}
+.top {
+    background-color: #EAEAEA;
+    position : relative;
+    padding-top : 100px;
+}
+
+.top-cloud{
+    position : absolute;
+    right : 300px;
+    top : 50px;
+}
+.bottom-cloud{
+    position : absolute;
+    top : 230px;
+    left : 300px;
+}
+.skill-row{
+    margin : 100px auto;
+    width : 50%;
+    text-align : left;
+    line-height: 2;
+}
+.profile-image{
+    height : 150px;
+}
+
+.skills{
+    background-color : #EAEAEA;
+    padding : 5% 0;
+}
+
+.skill1{
+    width : 25%;
+    border-radius: 100%;
+    float : left;
+    margin-right : 30px;
+}
+.skill2{
+    width : 25%;
+    border-radius: 50%;
+    float : right;
+    margin-left : 30px;
+}
+.hire-me{
+    height : 150px;
+}
+
+.bottom-container{
+    background-color : #66BFBF;
+    padding : 50px;
+    margin-top : 70px;
+}
+.footer-link{
+    margin : 0 30px;
+}
+
+.copyright{
+    color : #EAF6F6;
+    margin-top : 30px;
+
+}
+
+hr {
+    width : 4%;
+    margin: 50px auto 50px;;
+    border-width : 10px 0 0 0;
+    border-top: 10px dotted grey;
+}
+.contact-me{
+    line-height : 3;
+    margin-bottom : 100px;
+}
+.btn{
+    padding : 10px 20px;
+    background-color : #11999E;
+    color :#EAF6F6;
+    border-radius : 7%;
+}
+.profile-image{
+    margin-top : 80px;
+}
